@@ -9,6 +9,8 @@ Calendly is a scheduling calender application where users can create, edit and a
 
 ### Built with
 
+-   HTML
+-   CSS
 -   Javascript Date Api
 -   React
 -   Styled Components
